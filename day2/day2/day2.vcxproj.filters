@@ -33,4 +33,20 @@
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\note\1.md">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\note\2b04b3f16172420c922e634f12301b63.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\note\55e44d264e2b4dd0b4bb1fdcb8b935ea.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\note\569ee770273e429898b00aaad0b2f4cd.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
