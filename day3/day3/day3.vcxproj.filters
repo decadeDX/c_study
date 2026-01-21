@@ -18,5 +18,35 @@
     <ClCompile Include="test.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="major1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="major2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="major3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\note\1.md">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\note\1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="major1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="major2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="major3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
