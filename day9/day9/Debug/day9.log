@@ -1,0 +1,4 @@
+﻿  作业.c
+D:\c_study\day9\day9\作业.c(100,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c_study\day9\day9\作业.c(97,1): warning C4133: “初始化”: 从“double *”到“int *”的类型不兼容
+  day9.vcxproj -> D:\c_study\day9\Debug\day9.exe
