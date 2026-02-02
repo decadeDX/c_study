@@ -1,0 +1,4 @@
+﻿  1.c
+D:\c_study\day11\day11\1.c(6,1): warning C4005: “min”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(1283): message : 参见“min”的前一个定义
+  day11.vcxproj -> D:\c_study\day11\Debug\day11.exe
