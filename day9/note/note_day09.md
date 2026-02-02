@@ -188,3 +188,15 @@
 - 函数原型：char* strtok(const char* src, const char* delim);
 
 - 作用：根据分割字符集delim的字符，分割字符串src，只需要传递一次src就可以了，后面传空，就可以不断的去分割一个字符串，直到字符串不能再分割就返回空。
+
+### 判断字符的函数
+
+- isalpha：判断是否是字母，是就返回正数，否则返回0
+
+- isdigit：判断是否是数字
+
+- isalnum：判断是否是数字或字母
+
+- isupper：判断是否是大写
+
+- islower：盘算是否是小写

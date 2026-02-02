@@ -131,18 +131,18 @@ void getAvg(int** arr, int n, int low, int high) {
 
 
 int main() {
-	//const char* students[] = {
-	//	"陈维欣","陈潇奇","陈源昆","丁鑫","段家隆","费郁浩",
-	//	"郝咏棋","侯清元","康健","康正伟","李东昊","刘佳恒",
-	//	"李玥","米日丁","彭博","乔根根","王涵","王鑫",
-	//	"王永辉","吴坤","薛维哥","杨萌","杨涛","张辉",
-	//	"张嘉晋","张坤","张梦娣","赵俊虎","赵培源","朱嘉诚","朱阅文"
-	//};
-	//printf("挑选学生人数：\n");
-	//int n;
-	//scanf("%d", &n);
-	//int total = sizeof(students) / sizeof(students[0]);
-	//randomSelectStudent(students, total, n);
+	const char* students[] = {
+		"陈维欣","陈潇奇","陈源昆","丁鑫","段家隆","费郁浩",
+		"郝咏棋","侯清元","康健","康正伟","李东昊","刘佳恒",
+		"李玥","米日丁","彭博","乔根根","王涵","王鑫",
+		"王永辉","吴坤","薛维哥","杨萌","杨涛","张辉",
+		"张嘉晋","张坤","张梦娣","赵俊虎","赵培源","朱嘉诚","朱阅文"
+	};
+	printf("挑选学生人数：\n");
+	int n;
+	scanf("%d", &n);
+	int total = sizeof(students) / sizeof(students[0]);
+	randomSelectStudent(students, total, n);
 
 	printf("输入学生人数\n");
 	int num;
