@@ -171,7 +171,7 @@ int main() {
 	//getAvg(s);
 	//test4(s,3);
 	//test6();
-	//test7();
+	test7();
 	//int n;
 	//scanf("%d", &n);
 	//test8(n);

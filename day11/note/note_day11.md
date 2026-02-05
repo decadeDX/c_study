@@ -60,23 +60,29 @@
   - 4、如果结构体出现了嵌套，嵌套的结构体首地址应该按照其成员中最大对齐数的整数倍地址处存放
 
 - 例1：
-  - 代码![img](https://api2.mubu.com/v3/document_image/4733041_a3438ce6-2319-41ab-80ff-2dc7cbf9d7fd.png?)![img](https://api2.mubu.com/v3/document_image/4733041_5dc547ac-805f-42ea-e105-b067c0bb8dae.png?)
-
+  - 代码
+  - ![img](D:\c_study\day11\note\结构体.png)![img](D:\c_study\day11\note\结构体存储.png)
+  
 - 例2：
-  - 代码![img](https://api2.mubu.com/v3/document_image/4733041_7f390aa6-e6d1-418a-b335-3b9771a34f83.png?)![img](https://api2.mubu.com/v3/document_image/68e57753-89f6-476f-9cf7-4aea21f7be69-4733041.jpg?)
+  - 代码![img](D:\c_study\day11\note\结构体例2.png)![img](D:\c_study\day11\note\结构体存储例2.png)
 
 - 例3
-  - 代码![img](https://api2.mubu.com/v3/document_image/4733041_ea985e00-1612-4b77-8b95-b39dbaed3246.png?)![img](https://api2.mubu.com/v3/document_image/4733041_208b1594-b2ef-4c3a-939c-1c063e2b745e.png?)
+  - 代码
 
+    ![img](D:\c_study\day11\note\结构体例3.png)![img](D:\c_study\day11\note\结构体存储例3.png)
+  
 - 例4:
-  - 代码![img](https://api2.mubu.com/v3/document_image/68cd761b-0621-4fae-87dc-c573d82d0e2d-4733041.jpg?)![img](https://api2.mubu.com/v3/document_image/4733041_63ee8856-9917-44cf-aece-1d55d38f21bb.png?)
-
+  - 代码
+  - ![img](D:\c_study\day11\note\结构体例4.png)![img](D:\c_study\day11\note\结构体存储例4.png)
+  
 - 例5：
-  - 代码![img](https://api2.mubu.com/v3/document_image/4733041_da9ce315-ca13-484f-c144-45d0bf1cfc46.png?)![img](https://api2.mubu.com/v3/document_image/4733041_bbb1a3f0-5442-4cd9-ca2b-3401bca86a86.png?)
+  - 代码
+  
+    ![img](D:\c_study\day11\note\结构体例5.png)![img](D:\c_study\day11\note\结构体存储例5.png)
 
 ## 位段（位域）
 
-- C语言允许多个结构体成员来使用几位存储数据![img](https://api2.mubu.com/v3/document_image/4733041_b9c9ce6f-6713-4067-8e1c-3da4f70bf1b2.png?)
+- C语言允许多个结构体成员来使用几位存储数据![img](D:\c_study\day11\note\位域.png)
 
 # 枚举类型
 
